@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0vh;
+}
+.uk-container{
+    margin: 0vh;
+    padding: 0vh;
+}
+p{
+    font-size: 20px;
+}
+.uk-icon-link{
+    color: black;
+}
+.uk-border-circle{
+    position:relative;
+    border: 3px solid white;
+    right: 0vh;
+}
+.uk-border-circle-1{
+    border-radius:50%;
+    border: 3px solid white;
+    position: relative;
+    right: 12px;
+}
+.uk-icon-link{
+    color: black;
+}
+
